@@ -24,22 +24,10 @@ function App() {
 
   const developers = [
       {
-          name: "♞ Yaswanth Sai V",
-          image :yaswanthImg,
-          linkedin: "https://www.linkedin.com/in/yaswanth-sai-43ab47258/",
-          github : "https://github.com/yaswanth-142004"
-      },
-      {
           name: "♞ Shakeer S",
           image: shakeerImg,
           linkedin: "https://www.linkedin.com/in/shakeer-samanthapudi/",
           github : "https://github.com/Samanthapudi-Shakeer/"
-      },
-      {
-          name: "♞ Prathyush G",
-          image: prathyushImg,
-          linkedin: "https://www.linkedin.com/in/gutha-prathyush-6215ba255/",
-          github : "https://github.com/GuthaPrathyush"
       },
       {
           name: "♞ N.S.K.S Harshitha",
