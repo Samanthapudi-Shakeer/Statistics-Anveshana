@@ -34,7 +34,19 @@ function App() {
           image: harshithaImg,
           linkedin: "https://www.linkedin.com/in/harshitha-nalla-877001259/",
           github : "https://github.com/harshitha-nalla"
-      }
+      },      
+    {
+          name: "♞ Prathyush G",
+          image: prathyushImg,
+          linkedin: "https://www.linkedin.com/in/gutha-prathyush-6215ba255/",
+          github : "https://github.com/GuthaPrathyush"
+      },
+  {
+          name: "♞ Yaswanth Sai V",
+          image :yaswanthImg,
+          linkedin: "https://www.linkedin.com/in/yaswanth-sai-43ab47258/",
+          github : "https://github.com/yaswanth-142004"
+}
   ];
 
 
